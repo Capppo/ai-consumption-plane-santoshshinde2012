@@ -168,3 +168,7 @@ What still needs **your environment** (config/credentials, not code):
 ## License
 
 MIT — see `LICENSE`.
+
+## Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buymeacoffee-black?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/santoshshin)
