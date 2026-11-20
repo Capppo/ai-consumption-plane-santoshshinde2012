@@ -1,8 +1,13 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "6"
+# ///
 # MAGIC %pip install reportlab --quiet
 # MAGIC %restart_python
 
 # COMMAND ----------
+
 """Generate synthetic E-Shop support documents into the Bronze volume.
 
 Four PDFs are created so the unstructured half of the pipeline is testable
